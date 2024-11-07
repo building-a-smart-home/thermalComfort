@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1730967125484,"sparkVersion":"3.5.3","uid":"StringIndexer_e50239c0bcd6","paramMap":{"inputCol":"thermal_comfort","outputCol":"thermal_comfort_index"},"defaultParamMap":{"stringOrderType":"frequencyDesc","handleInvalid":"error","outputCol":"StringIndexer_e50239c0bcd6__output"}}
